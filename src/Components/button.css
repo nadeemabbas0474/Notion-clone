@@ -1,0 +1,12 @@
+button{
+    font-size: 18px;
+    font-family: "ubuntu";
+    background-color: black;
+    color: white;
+    padding: 1%;
+    width: 100px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+
+}
